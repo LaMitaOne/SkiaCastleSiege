@@ -31,4 +31,5 @@ Visuals & UI
      Aim	Hold Left Mouse Button   
      Fire	Release Left Mouse Button   
      Reset Level	R   
-      
+       
+Zipped sample exe and project included
